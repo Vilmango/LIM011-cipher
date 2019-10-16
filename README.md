@@ -1,6 +1,6 @@
 # Proyecto Cifrado César
 
-* Un título del proeto:
+* Título del proyecto:
     MailSafe
 
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto:
@@ -12,7 +12,7 @@
   ![final1 alt>](src/img/f1.PNG)
   ![final2 alt>](src/img/f2.PNG)     
   ![final3 alt>](src/img/f3.PNG)     
-  ![final4 alt>](src/img/f4.PNG)     
+  ![final4 ](src/img/f4.PNG)     
 
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
