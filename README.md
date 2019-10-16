@@ -1,12 +1,12 @@
 # Proyecto Cifrado César
 
-* Título del proyecto:
+### Título del proyecto:
     MailSafe
 
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto:
+### Resumen de 1 o 2 líneas de qué se trata tu proyecto:
     Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y descodificar mensajes a ser enviados por correo electrónico o mensajería electrónica.
 
-* La imagen final del proyecto:
+### La imagen final del proyecto:
   
   
   ![final1 alt>](src/img/f1.PNG)
@@ -14,7 +14,7 @@
   ![final3 alt>](src/img/f3.PNG)     
   ![final4 ](src/img/f4.PNG)     
 
-* Investigación UX:
+### Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
     producto.
       Personas o instituciones que necesiten proteger el contenido escrito en su correo electrónico o comunicaciones internas.
