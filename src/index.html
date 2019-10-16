@@ -1,15 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
+    <title>~ MAIL SAFE ~</title>
+    <link rel = "icon" type = "image/png" href = "img/icon1.png">
     <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Hepta+Slab|Quicksand&display=swap" rel="stylesheet">
   </head>
+
   <body>
-    <div id="root">
-      <h1>Hello world!</h1>
+  
+    <div id="root" class ="one">
+      <img src="img/header.png" alt="Mail Safe" class="headPictureMain" style="animation-delay: 0.01s">
+        <h1 class="h1">~MailSafe~</h1>
+      <h3 class="text">Codifica el contenido de tu correo para proteger tu información.</h3>
+      <button type="button" id="boton1" class="boton"> CODIFICAR </button> 
+      <button type="button" id="boton2" class="boton"> DECODIFICAR </button> 
+      
     </div>
+      <header id="header" class="header"> <img src="img/msgcod4.png" alt="Mail Safe" class="headpicture"> 
+      <h3 class="subtitle3">  ~MailSafe~</h3>
+      </header>
+    <div id="secondScreenCod" class="ocultar">
+      <h2 class="subtitle3">CODIFICAR</h2>
+      <label for="textCod" class="textArea">Introduce el texto a codificar:</label> <br><br>
+      <textarea id="textCod" name="textaCod" class="textArea" rows="10" cols="50" ></textarea><br><br>
+      <span>Complejidad:</span> <!--Mover input al lado de complejidad con CSS-->
+      <input type="number" id="complex1" name="offset" placeholder="Número positivo">
+      <button type="button" id="botonCodificar" class="boton">CODIFICAR</button> <br><br>
+      
+      <div class="texto1"> <p> Tu texto codificado es: <br>
+        <span class="texto2" id="resultadoCod"></span>
+      </p></div>
+    </div>
+  
+    <div id="thirdScreenDecod" class="ocultar">
+      <h2 class="subtitle3">DECODIFICAR</h2>
+      <label for="textDecod" class="textArea">Introduce el texto a decodificar:</label> <br><br>
+      <textarea id="textDecod" name="textaDecod" rows="10" cols="50"></textarea><br><br>
+      <span class="comp">Complejidad: </span> <!--Mover input al lado de complejidad con CSS-->
+      <input type="number" id="complex2" name="offset" placeholder="Número positivo">
+      <button type="button" id="botonDecodificar" class="boton">DECODIFICAR</button> <br><br>
+      
+      <div class="texto1"> <p>Tu texto decodificado es: <br>
+        <span class="texto2" id="resultadoDecod"></span>
+        </p>
+      </div>
+
+    </div>
+    <div id="fourthScreenReturn" class="ocultar">
+        <button type="button" id="botonRegreso" class="boton"> REGRESAR AL INICIO </button> 
+    </div>
+      
     <script src="cipher.js"></script>
+  
     <script src="index.js"></script>
   </body>
 </html>
