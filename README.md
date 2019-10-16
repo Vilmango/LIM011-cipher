@@ -7,7 +7,8 @@
     Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y descodificar mensajes a ser enviados por correo electrónico o mensajería electrónica.
 
 * La imagen final del proyecto:
-  ![final1](src/img/f1.PNG)     
+  
+  <center>![final1](src/img/f1.PNG) </center>
   ![final2](src/img/f2.PNG)     
   ![final3](src/img/f3.PNG)     
   ![final4](src/img/f4.PNG)     
@@ -28,9 +29,10 @@
       Mover el input del offset a la misma pantalla donde se codifica y decodifica. Tratar de reducir tamaño de las pantallas, cambiar la forma en que el resultado codificado o decodificado se mostaba y que no fuese editable al generarse en pantalla.
 
   5. Imagen del prototipo final.
-      ![protouno](src/img/p1.PNG)     
-      ![protodos](src/img/p2.PNG)     
-      ![prototres](src/img/p3.PNG)     
+  
+  ![protouno](src/img/p1.PNG)     
+  ![protodos](src/img/p2.PNG)     
+  ![prototres](src/img/p3.PNG)     
 
 
 
