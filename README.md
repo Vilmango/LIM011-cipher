@@ -8,10 +8,11 @@
 
 * La imagen final del proyecto:
   
-  <center>![final1](src/img/f1.PNG) </center>
-  ![final2](src/img/f2.PNG)     
-  ![final3](src/img/f3.PNG)     
-  ![final4](src/img/f4.PNG)     
+  
+  ![final1 alt>](src/img/f1.PNG)
+  ![final2 alt>](src/img/f2.PNG)     
+  ![final3 alt>](src/img/f3.PNG)     
+  ![final4 alt>](src/img/f4.PNG)     
 
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
