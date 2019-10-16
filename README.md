@@ -1,4 +1,4 @@
-# ~Mail Safe~ /  Proyecto Cifrado César
+# Proyecto Cifrado César
 
 * Un título del proeto:
     MailSafe
@@ -7,10 +7,10 @@
     Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y descodificar mensajes a ser enviados por correo electrónico o mensajería electrónica.
 
 * La imagen final del proyecto:
-  ![final1](/img/f1.PNG)     
-  ![final2](/img/f2.PNG)     
-  ![final3](/img/f3.PNG)     
-  ![final4](/img/f4.PNG)     
+  ![final1](src/img/f1.PNG)     
+  ![final2](src/img/f2.PNG)     
+  ![final3](src/img/f3.PNG)     
+  ![final4](src/img/f4.PNG)     
 
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
@@ -22,15 +22,15 @@
       Proteger el texto y hacer más segura cualquier información delicada o confidencial que necesite ser enviada por email u otro medio de mensajería electrónica.
 
   3. Luego colocarás la foto de tu primer prototipo en papel.
-      ![boceto](/img/sketch.jpeg)      
+      ![boceto](src/img/sketch.jpeg)      
   
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
       Mover el input del offset a la misma pantalla donde se codifica y decodifica. Tratar de reducir tamaño de las pantallas, cambiar la forma en que el resultado codificado o decodificado se mostaba y que no fuese editable al generarse en pantalla.
 
   5. Imagen del prototipo final.
-      ![proto1](/img/p1.PNG)     
-      ![proto2](/img/p2.PNG)     
-      ![proto3](/img/p3.PNG)     
+      ![protouno](src/img/p1.PNG)     
+      ![protodos](src/img/p2.PNG)     
+      ![prototres](src/img/p3.PNG)     
 
 
 
