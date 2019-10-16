@@ -21,7 +21,7 @@
     usuarios.
       Proteger el texto y hacer más segura cualquier información delicada o confidencial que necesite ser enviada por email u otro medio de mensajería electrónica.
 
-  3. Luego colocarás la foto de tu primer prototipo en papel.
+  3. Foto primero prototipo en papel:
       ![boceto](src/img/sketch.jpeg)      
   
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
