@@ -1,17 +1,17 @@
 # Proyecto Cifrado César
 
-### Título del proyecto:
-    MailSafe
+### Título del proyecto
+MailSafe
 
-### Resumen de 1 o 2 líneas de qué se trata tu proyecto:
-    Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y descodificar mensajes a ser enviados por correo electrónico o mensajería electrónica.
+### Resumen de 1 o 2 líneas de qué se trata tu proyecto
+Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y descodificar mensajes a ser enviados por correo electrónico o mensajería electrónica.
 
 ### La imagen final del proyecto:
   
   
-  ![final1 alt>](src/img/f1.PNG)
-  ![final2 alt>](src/img/f2.PNG)     
-  ![final3 alt>](src/img/f3.PNG)     
+  ![final1](src/img/f1.PNG)
+  ![final2](src/img/f2.PNG)     
+  ![final3](src/img/f3.PNG)     
   ![final4 ](src/img/f4.PNG)     
 
 ### Investigación UX:
@@ -36,43 +36,43 @@
   ![prototres](src/img/p3.PNG)     
 
 
-
+## Objetivos de aprendizaje
 ### UX
 
-- [Sí, sí, sí ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [Sí, sí, sí] Crear prototipos para obtener feedback e iterar.
-- [Sí, no, sí ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [x] Diseñar la aplicación pensando y entendiendo al usuario.
+- [x] Crear prototipos para obtener feedback e iterar.
+- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 ### HTML y CSS
 
-- [Sí, sí, sí ] Uso correcto de HTML semántico.
-- [Sí, sí, sí ] Uso de selectores de CSS.
-- [Sí, sí, sí ] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [x] Uso correcto de HTML semántico.
+- [x] Uso de selectores de CSS.
+- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
 
-- [Sí, sí, sí ] Uso de selectores del DOM.
-- [Sí, sí, sí ] Manejo de eventos del DOM.
-- [Sí, sí, sí ] Manipulación dinámica del DOM.
+- [x] Uso de selectores del DOM.
+- [x] Manejo de eventos del DOM.
+- [ ] Manipulación dinámica del DOM.
 
 ### Javascript
 
-- [Sí, no, sí ] Manipulación de strings.
-- [Sí, sí, sí ] Uso de condicionales (if-else | switch).
-- [Sí, sí, no ] Uso de bucles (for | do-while).    
-- [Sí, sí, sí ] Uso de funciones (parámetros | argumentos | valor de retorno).
-- [Sí, no, sí ] Declaración correcta de variables (const & let).
+- [ ] Manipulación de strings.
+- [x] Uso de condicionales (if-else | switch).
+- [x] Uso de bucles (for | do-while).    
+- [x] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Declaración correcta de variables (const & let).
 
 ### Testing
-- [Sí, no, sí ] Testeo de tus funciones.
+- [ ] Testeo de tus funciones.
 
 ### Git y GitHub
-- [Sí, no, sí ] Comandos de git (add | commit | pull | status | push).
-- [Sí, sí, sí ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [ ] Comandos de git (add | commit | pull | status | push).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
-- [Sí, sí, sí ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
-- [Sí, sí, sí ] Uso de linter para seguir buenas prácticas (ESLINT).
+- [x] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [x] Uso de linter para seguir buenas prácticas (ESLINT).
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
