@@ -45,7 +45,7 @@ Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y de
 
 ### HTML y CSS
 
-- [x] Uso correcto de HTML semántico.
+- [ ] Uso correcto de HTML semántico.
 - [x] Uso de selectores de CSS.
 - [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 
@@ -144,14 +144,14 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 ### UX
 
-- [1] Diseñar la aplicación pensando y entendiendo al usuario.
-- [1] Crear prototipos para obtener feedback e iterar.
-- [1] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ ] Crear prototipos para obtener feedback e iterar.
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 ### HTML y CSS
 
-- [1] Uso correcto de HTML semántico.
-- [1] Uso de selectores de CSS.
+- [ ] Uso correcto de HTML semántico.
+- [ ] Uso de selectores de CSS.
 - [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
