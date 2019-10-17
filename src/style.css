@@ -3,26 +3,18 @@
     --body-font: 'Quicksand', sans-serif;
     --back-color: rgb(232,237,252);
     --boton-color2:rgb(66,141,255);
-    --boton-color3:rgb(164,194,247);
-    --boton-color4:rgb(5,71,187);
-    --bigheader-color:#444
 }
 
 .headPictureMain {
-    padding-top: 30px;
+    padding-top: 35px;
 }
 .one {
     text-align: center;
-
 }
 
 .text {
     font-family: var(--body-font);
     color: var(--boton-color);
-}
-
-.h1 {
-    color:var(--bigheader-color);
 }
 
 .boton{
@@ -46,7 +38,6 @@
     background-color: rgb(217, 231, 255);
     color:var(--boton-color2);
     border: 1px solid var(--boton-color2);
-
 }
 
 .boton:active {
@@ -104,5 +95,3 @@
     display: none ;
     text-align: center;
 }
-
-
