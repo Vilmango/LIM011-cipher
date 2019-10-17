@@ -45,7 +45,7 @@ Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y de
 
 ### HTML y CSS
 
-- [ ] Uso correcto de HTML semántico.
+- [X] Uso correcto de HTML semántico.
 - [x] Uso de selectores de CSS.
 - [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 
