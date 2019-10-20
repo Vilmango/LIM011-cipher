@@ -41,13 +41,13 @@ Programa para cifrado de texto de mayúsculas y minúsculas, para codificar y de
 
 - [x] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener feedback e iterar.
-- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 ### HTML y CSS
 
 - [X] Uso correcto de HTML semántico.
 - [x] Uso de selectores de CSS.
-- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
 
