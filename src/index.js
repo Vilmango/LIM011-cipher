@@ -9,7 +9,7 @@ btn1C.addEventListener('click', () => {
   root1.style.display = 'none';
   secondSC.style.display = 'block';
   fourthSR.style.display = 'block';
-  header.style.display = 'block';  
+  head.style.display = 'block';  
 });
 const btn2D = document.getElementById('boton2D');
 btn2D.addEventListener('click', () => {
