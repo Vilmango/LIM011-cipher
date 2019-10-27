@@ -109,7 +109,7 @@
     font-family: var(--header-font);
     font-size: 40px;
 }
-.comp, .texto1 {
+.comp {
     font-size: 20px;
 }
 .texto1 {
