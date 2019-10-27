@@ -4,19 +4,60 @@
     --back-color: rgb(232,237,252);
     --boton-color2:rgb(66,141,255);
 }
-
+.header {
+    
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-family: var(--header-font);
+    background-color: var(--boton-color2);
+    background-image: linear-gradient(-90deg, white,rgb(66,141,255) , white)
+}
+.subtitle3 {
+    font-family: var(--header-font);
+    text-align: center;
+}
 .headPictureMain {
     padding-top: 35px;
 }
-.one {
-    text-align: center;
+.headpicture {
+    padding-top: 10px;
 }
-
+.body {
+    width: 300%;
+    height:100%;
+    margin-top:0;
+    padding:0;
+    overflow-x: hidden;
+}
+.container {
+    margin-top:0;
+    width: 300%;
+    height:100%;
+    position: absolute;
+    transition: 400ms;
+    left:0;
+    display: flex;
+    padding-top: 0;
+    border: 1px solid black;
+}
 .text {
     font-family: var(--body-font);
     color: var(--boton-color);
 }
-
+.nextlink {
+    left:-100%;
+}
+.secondlink{
+    left:-200%;
+}
+.thirdlink{
+    left:0;
+}
+.content {
+    width: 100%;
+    height: 100%;
+}
 .boton{
     font-family: var(--body-font);
     font-weight: bold;
@@ -33,13 +74,11 @@
     border-radius: 5px;
     box-shadow: 0 4px rgba(2, 69, 131, 0.87);
 }
-
 .boton:hover {
     background-color: rgb(217, 231, 255);
     color:var(--boton-color2);
     border: 1px solid var(--boton-color2);
 }
-
 .boton:active {
     background-color: lightgreen;
     box-shadow: 0 4px lightseagreen;
@@ -47,51 +86,34 @@
     color:var(--boton-color);
     border: 1px solid  lightseagreen;
 }
-
-.header {
-    overflow: auto;
-    font-family: var(--header-font);
-    color: white;
-    line-height: 1.5;
-    padding: .5em;
-    text-align: center; 
-    background: var(--boton-color2);
-    font-family: var(--header-font);
-    height: 106px;
-}
-.subtitle3 {
-    font-family: var(--header-font);
+.info-link {
+    display: block;
+    box-sizing: border-box;
+    padding: 1em;
+    width: 100%;
+    text-decoration: none;
     text-align: center;
-    
+    background-color: whitesmoke;
+    position: absolute;
+    bottom: 0;
 }
-
-.headpicture {
+.info {
+    width:90%;
+    height: 90%;
+    margin: 0 auto;
+    position:relative;
+    text-align: center;
     padding-top: 5px;
 }
-
-.header {
-    display: none;
-}
-
 .h1 {
     font-family: var(--header-font);
     font-size: 40px;
 }
-
-.comp {
-    font-size: 18px;
-}
-
-.texto1 {
+.comp, .texto1 {
     font-size: 20px;
 }
 .texto2 {
     color: rgb(2, 180, 61);
     font-size: 24px;
     padding-top: 20px;
-}
-.ocultar  {
-    font-family: var(--body-font);
-    display: none ;
-    text-align: center;
 }
