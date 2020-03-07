@@ -4,6 +4,11 @@
     --back-color: rgb(232,237,252);
     --boton-color2:rgb(66,141,255);
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .header {
     height: 100px;
     color: white;
